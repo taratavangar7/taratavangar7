@@ -24,7 +24,13 @@
 -  I’m currently learning JavaScript.🌙  
   
 
-- ** Ask me about anything related to the universe & technology!**  
+-  Ask me about anything related to the universe & technology!
+  
+
+-  Coding is my fifth language I guess. 
+
+
+-  Everybody knows how to code, nobody knows how to vibe with it. I'M NOBODY I guess. (jokes on you)
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
