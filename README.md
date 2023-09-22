@@ -60,6 +60,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=taratavangar7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/PC/Desktop/giphy.gif">
+
 
 <br/>  
 
