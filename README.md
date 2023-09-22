@@ -7,7 +7,7 @@
 <a href="https://github.com/taratavangar7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/taradaara" target="_blank">
+<a href="https://instagram.com/developertara" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
@@ -15,25 +15,25 @@
 <br/>  
 
 
-## Rapidfire  
+##   
 <table><tr><td valign="top" width="50%">
 
--  I’m currently working on Parallax Projects.🖼️  
+-  ==I’m currently working on Private Projects.== 
   
 
--  I’m currently learning JavaScript.🌙  
+-  ==I’m currently learning JavaScript.==
   
 
--  Ask me about anything related to the universe & technology!
+-  ==Ask me about anything related to the universe & technology!==
   
 
--  Coding is my fifth language I guess. 
+-  ==Coding is my fifth language I guess.==
 
 
--  Everybody knows how to code, nobody knows how to vibe with it. I'M NOBODY I guess. (jokes on you)
+-  ==Everybody knows how to code, nobody knows how to vibe with it. I'M NOBODY I guess. (jokes on you)==
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+
 
 
 </td><td valign="top" width="50%">
@@ -73,7 +73,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
   
 
 <br/>  
