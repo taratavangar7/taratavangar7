@@ -62,7 +62,8 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://s6.uupload.ir/files/giphy_2miz.gif" align="left" style="width: 100%" />
+
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://s6.uupload.ir/files/giphy_2miz.gif))
 
 
 </td></tr></table>  
