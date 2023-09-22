@@ -60,13 +60,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=taratavangar7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://s6.uupload.ir/files/giphy_2miz.gif))
-
-
-</td></tr></table>  
 
 <br/>  
 
