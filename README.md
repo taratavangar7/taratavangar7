@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
+<img src="[https://github-readme-stats.vercel.app/api?username=taratavangar7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF1NXR2czNkMmZ4d2w1eThhYnFlcnhpbjk1bnJubmRpamk1OGM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gS6dPa2YpUlNhKg1S/giphy.gif)https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF1NXR2czNkMmZ4d2w1eThhYnFlcnhpbjk1bnJubmRpamk1OGM3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gS6dPa2YpUlNhKg1S/giphy.gif" />
 <br/>  
 
 
@@ -60,7 +60,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=taratavangar7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/PC/Desktop/giphy.gif">
+
 
 
 <br/>  
